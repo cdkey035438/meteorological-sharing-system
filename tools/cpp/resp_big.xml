@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+<retcode>-1</retcode>
+<message>参数不完整：username/passwd/intername</message>
+</response>
